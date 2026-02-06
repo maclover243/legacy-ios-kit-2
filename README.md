@@ -1,5 +1,5 @@
 # Legacy iOS Kit
-less files cuz you dont need them also macos only now
+less files cuz you dont need them also macos only now also rename restore.sh.app.zip to restore.sh.app
 - (formerly iOS-OTA-Downgrader)
 - **An all-in-one tool to [restore/downgrade](https://github.com/LukeZGD/Legacy-iOS-Kit/wiki/Restore-Downgrade), [save SHSH blobs](https://github.com/LukeZGD/Legacy-iOS-Kit/wiki/Saving-SHSH-blobs), [jailbreak](https://github.com/LukeZGD/Legacy-iOS-Kit/wiki/Jailbreaking) legacy iOS devices, and more**
 - Supported on **Linux and macOS**
